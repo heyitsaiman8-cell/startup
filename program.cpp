@@ -26,5 +26,7 @@ int main() {
         cout << i << " ";
     }   
     cout << endl;
+    cout<<"aoa,this is the line that i added today";
+
 
 }   
